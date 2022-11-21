@@ -9,7 +9,7 @@
 
   Redesigned the hatch website to showcase my front-end skills. Built this for educational purposes only.
 
-  <a href="https://universeglance.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://hatchh.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
